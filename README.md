@@ -10,7 +10,7 @@ Given any YouTube URL, this assistant extracts or transcribes the video content,
 
 <!-- Replace 'assets/demo.gif' with your recorded GIF file path -->
 ![App Demo](assets/demo.gif)
-
+#### Please wait some time so that the demo can be loaded
 ---
 
 ## 🏗️ System Architecture & Step-by-Step Pipeline Execution
